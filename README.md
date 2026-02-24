@@ -11,7 +11,8 @@ Automated Preprocessing: Includes a custom feature-mapping engine to ensure that
 
 Clinical Insights: Provides probability scores for both Malignant (M) and Benign (B) classifications to assist in medical decision-making.
 
-Tech Stack
+Tech Stack:
+
 Python: Core programming language.
 
 Machine Learning: TensorFlow/Keras (for the neural network) and Scikit-Learn (for data scaling and splitting).
@@ -21,6 +22,7 @@ Data Processing: Pandas and NumPy.
 Web Framework: Streamlit.
 
 Model Persistence: Joblib.
+
 How to Use
 Launch the Streamlit application.
 
